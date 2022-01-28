@@ -1,0 +1,21 @@
+{
+  "name": "test_pw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonasiapps/test_pw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonasiapps/test_pw/issues"
+  },
+  "homepage": "https://github.com/sonasiapps/test_pw#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.18.1"
+  }
+}
